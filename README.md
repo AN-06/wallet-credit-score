@@ -73,6 +73,7 @@ To run the scoring system:
 2. Place your Aave V2 JSON file (e.g., `aave_data.json`) inside the folder.
 3. Ensure each record follows this format:
 
+
 ```json
 {
   "userWallet": "0x...",
@@ -84,6 +85,15 @@ To run the scoring system:
   "timestamp": 1687632712
 }
 ```
+### 🗃️ Data Source
+
+The dataset used here is a raw Aave V2 transaction-level JSON file containing thousands of wallet actions and financial behavior logs:
+
+- 📄 **Raw JSON (~87MB)**: [Download from Google Drive](https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing)
+- 📦 **Zipped Version (~10MB)**: [Download from Google Drive](https://drive.google.com/file/d/14ceBCLQ-BTcydDrFJauVA_PKAZ7VtDor/view?usp=sharing)
+
+You can use either version depending on your bandwidth or storage preference.
+
 ---
 
 ## 📊 Output Files
