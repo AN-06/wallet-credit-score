@@ -153,11 +153,6 @@ wallet-credit-score/
 ├── README.md                  # 📄 This file
 └── analysis.md                # 📊 Score analysis report
 ```
-### 📚 Use Cases
-- 🏦 Filter high-trust wallets for lending protocols
-- 🧪 Study user behavior and protocol engagement
-- ⚠️ Detect risky, inactive, or spammy wallets
-- 🎯 Build credit delegation or trust-based access layers
 
 ### 🛠️ Requirements
    Python 3.7 or higher
@@ -171,4 +166,11 @@ wallet-credit-score/
  ```bash
      pip install pandas matplotlib seaborn
    ```
+
+### 📚 Use Cases
+- 🏦 Filter high-trust wallets for lending protocols
+- 🧪 Study user behavior and protocol engagement
+- ⚠️ Detect risky, inactive, or spammy wallets
+- 🎯 Build credit delegation or trust-based access layers
+
 ---
