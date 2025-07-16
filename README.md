@@ -101,9 +101,7 @@ You can use either version depending on your bandwidth or storage preference.
 - `outputs/wallet_scores.csv` – Wallets with computed credit scores  
 - `outputs/score_distribution.png` – Histogram of wallet scores
 
-### 📷 Sample Score Distribution
 
-![Wallet Score Distribution](outputs/score_distribution.png)
 ---
 
 ## 📈 Insights from Score Distribution
