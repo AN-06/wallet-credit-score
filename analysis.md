@@ -44,8 +44,6 @@ credit_score = int(final_score * 1000)
 
 ## Score Distribution Insight
 
-### 📷 Sample Score Distribution
-
 ![Wallet Score Distribution](outputs/score_distribution.png)
 
 The score distribution is highly right-skewed, with the majority of wallets scoring below **100**. This suggests that most wallets show limited activity, poor recency, or unbalanced transaction behavior. A smaller number of wallets achieve moderate scores (100–400), and very few demonstrate consistently healthy activity to score higher.
